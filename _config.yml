@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'luolisen的个人博客'
 description: '昵称luolisen,00后,前端开发者/伪极客/灵魂摄影师,热爱技术&设计,很高兴能在这里与你分享我对技术和生活的思考.'
-keyword: '罗莅森, 罗莅森的独立博客, 罗莅森的博客, 前端, 前端开发, 前端博客, Python, Digistump, 装机, 设计, Git'
+keyword: '罗莅森, 罗莅森的独立博客, 罗莅森的博客, 前端, 前端开发, 前端博客, Python, Digistump, 装机, 设计, Git, Jekyll'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -37,7 +37,7 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: true
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
