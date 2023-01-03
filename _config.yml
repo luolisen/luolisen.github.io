@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'Passer'
+title: 'Breaker's Blog'
 description: '游手好闲的野鸡电子爱好者的个人博客，交流为数不多的技术心得。'
-keyword: '仲孙星河,Takuron,blog,zs-river,zhongsunxinghe,developer,personal'
+keyword: 'luolisen,罗莅森,Breaker,Breaker,blog,zs-river,developer,personal'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -35,7 +35,6 @@ friend:
   Sonatta： 生活小栈: https://sonatta.top/
   吃纸怪的博客：分享日常笔记和优质内容: https://chizg.cn/
   缤風小栈: https://www.binfeng.fun/
-  Seirei：一个温暖的小窝温暖(*´∀｀) （暂时屏蔽）: https://takuron.top/go?url=https://seirei.top/
   Barkure : https://guguga.cn/
   imByteCat：✨ To reach the unreachable star. : https://www.imbytecat.com/
   地皮的博客：祈愿世界永远美好 : https://dpii.club/
@@ -83,10 +82,7 @@ postPatterns: 'seaOfClouds'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/zs-river'
-#  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-#  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/takuron'
+  github: '//github.com/luolisen'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
