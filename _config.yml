@@ -1,0 +1,118 @@
+# Site settings 配置站点
+title: 'Passer'
+description: '游手好闲的野鸡电子爱好者的个人博客，交流为数不多的技术心得。'
+keyword: '仲孙星河,Takuron,blog,zs-river,zhongsunxinghe,developer,personal'
+url: '' # your host
+
+# when build blog on server, if you don't need baseurl, you should leave this value blank.
+# 在服务器上建站时，如果你不需要子域名，请将这一格留空
+# if you're using GitHub Pages, set baseurl to your blog's .
+# 如果你在使用 GitHub Pages, 请将 baseurl 设置为你的网址的子域名
+# for example, if your site is "kaeyleo.github.io", then this url should leave blank.
+# 例如，当你的域名是 "kaeyleo.github.io"  时，这个 url 需要留空
+# but if your created a repo named "myblog", and the site is "kaeyleo.github.io/myblog", change baseurl to '/myblog'
+# 但是，如果你创建了一个叫 "myblog" 的网站，此时网址会变成 "kaeyleo.github.io/myblog" ，这时再将 baseurl 设置为 '/myblog'
+baseurl: ''
+
+# Navigation links
+nav:
+  about: '/about/'
+  tags: '/tags/'
+  links: '/links/'
+  Travelling: 'https://travellings.link'
+
+# Page links
+link:
+  小工具合集（GitHub Pages版）: https://takuron.top/go?url=https://takuron-tool.github.io/
+  小工具合集（Gitee Pages版）: https://takuron.top/go?url=https://takuron-tool.gitee.io/
+
+# Page Tools
+tool:
+  Coolexe : https://www.coolexe.com/
+  Markdown在线工具: https://takuron.top/go?url=http://coolaf.com/tool/md
+
+# Page Friends
+friend:
+  Sonatta： 生活小栈: https://sonatta.top/
+  吃纸怪的博客：分享日常笔记和优质内容: https://chizg.cn/
+  缤風小栈: https://www.binfeng.fun/
+  Seirei：一个温暖的小窝温暖(*´∀｀) （暂时屏蔽）: https://takuron.top/go?url=https://seirei.top/
+  Barkure : https://guguga.cn/
+  imByteCat：✨ To reach the unreachable star. : https://www.imbytecat.com/
+  地皮的博客：祈愿世界永远美好 : https://dpii.club/
+  Davinci的红茶馆：我只是一个追逐群星的孩子，注视着天空中千万繁星的诞生。 : https://davincievans.top/
+  FANTASY博客：记录学习、生活的小站: https://blog.tigerxly.com/
+  guqing's blog：毕生所求无它，爱与自由而已 : https://guqing.xyz
+  天雨的博客：Be smart. Be studious. : https://blog.irain.in/
+
+
+
+# Footer
+footer:
+  since: 2017
+
+# Author 配置博主信息
+author: 'Takuron'
+nickname: 'Takuron'
+bio: '不务正业的逗比大学生，有事联系<a href="mailto:zhongsunxinghe@outlook.com"> 个人邮箱</a>'
+avatar: 'https://s2.loli.net/2022/10/18/V9SkMR3caW5f8oj.webp' # 进行修改，必须要完整链接
+
+# Search
+search: true
+
+# Night mode
+nightMode: false
+
+# Comments 评论功能
+comments:
+  disqus: true
+  disqus_url: 'https://liaokeyu.disqus.com/embed.js' #无效
+
+# MathJax 公式支持 by Ray-Eldath
+mathjax: true
+
+# Share
+social-share: true
+social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+
+# theme color 主题皮肤
+theme-color: 'default'  # pink or default
+
+# Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
+postPatterns: 'seaOfClouds'
+
+# SNS settings 配置社交网站
+# url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
+sns:
+  weibo: '//weibo.com/zs-river'
+#  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
+#  instagram: '//www.instagram.com/steveliaocn'
+  github: '//github.com/takuron'
+
+# Tags 设置标签
+recommend-tags: true # whether or not display recommend-tags on the sidebar
+recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
+
+# Build settings
+paginate: 6
+paginate_path: 'page/:num'
+exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+# RSS
+RSS: true
+
+# Permalink
+# See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
+permalink: /:title
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed

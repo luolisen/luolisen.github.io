@@ -1,0 +1,39 @@
+---
+title: 站外链接
+layout: default
+permalink: /links/
+---
+
+{% include header.html %}
+
+<div class="g-banner tags-banner {{ site.postPatterns | prepend: 'post-pattern-' }} {{ site.theme-color | prepend: 'bgcolor-' }}" data-theme="{{ site.theme-color }}">
+    <h2>站外链接</h2>
+</div>
+
+<main class="tags-content">
+
+    <ul class="tags-list">
+        <li>
+            <span class="tag-name">其他个人网站</span>
+            {% for i in site.link %}
+            <a class="tag-post" href="{{ i[1] | relative_url}}" title="{{ i[0] }}">{{ i[0] }}</a>
+            {% endfor %}
+        </li>
+
+        <li>
+            <span class="tag-name">小工具</span>
+            {% for i in site.tool %}
+            <a class="tag-post" href="{{ i[1] | relative_url}}" title="{{ i[0] }}">{{ i[0] }}</a>
+            {% endfor %}
+        </li>
+
+        <li>
+            <span class="tag-name">友情网站</span>
+            {% for i in site.friend %}
+            <a class="tag-post" href="{{ i[1] | relative_url}}" title="{{ i[0] }}">{{ i[0] }}</a>
+            {% endfor %}
+        </li>
+    </ul>
+</main>
+
+{% include footer.html %}
