@@ -8,9 +8,9 @@ cover: https://s2.loli.net/2022/10/18/SYRqeBahrwOVN2K.webp
 
 [![我是垃圾](https://i.postimg.cc/XJcCV99s/b3e372fef1b3ef1615ceceaaedda1078-01.jpg)](https://postimg.cc/9R0MbR89)
 
-我，性别男。就读于某个拖累各大平台平均水平的学校，大四绝赞划水中。平时喜欢各种电子垃圾和重装各种系统，随缘搞Android开发。
+我，性别男。就读于某个拖累各大平台平均水平的学校，初一绝赞划水中。平时喜欢各种电子垃圾和重装各种系统，随缘搞Python开发。
 
-四斋不需要运动，欢迎在steam送我各种游戏。如果您觉得我写的还不错，也可以[赏我口饭吃](http://www.dashangcloud.com/sh/87ac15)。
+死宅不需要运动，欢迎在steam送我各种游戏。如果您觉得我写的还不错，也可以[赏我口饭吃](http://www.dashangcloud.com/sh/87ac15)。
 
 [![hh209.gif](https://i.postimg.cc/s23c5fKH/hh209.gif)](https://postimg.cc/nXwBJJyq)
 
@@ -25,7 +25,7 @@ cover: https://s2.loli.net/2022/10/18/SYRqeBahrwOVN2K.webp
 
 本站由[H2O](https://github.com/kaeyleo/jekyll-theme-H2O)主题修改而成。
 
-本站的图片存储于[SM.MS](https://sm.ms/)上，部分作画使用NovelAI自动作画生成，仅供个人使用不对版权负责。
+本站的图片存储于[SM.MS](https://smms.app/)上，部分作画使用NovelAI自动作画生成，仅供个人使用不对版权负责。
 
 本站的评论系统免费托管于[来必力](https://livere.com/introduce)。
 
@@ -54,4 +54,4 @@ cover: https://s2.loli.net/2022/10/18/SYRqeBahrwOVN2K.webp
 4. 不能有本人看着不爽的广告，网站风格简约不过度花里胡哨。（宽容度很高，审美在线就不用慌）
 5. 其他类型主要看内容和功能本人是否有机会使用，会单独出现在“工具”列表。
 
-欢迎符合要求的网站发送邮件到 [本人邮箱](mailto: zhongsunxinghe@outlook.com；) 来申请。
+欢迎符合要求的网站发送邮件到 [本人邮箱](mailto: 1702456431@qq.com；) 来申请。
