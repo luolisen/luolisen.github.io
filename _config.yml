@@ -19,7 +19,6 @@ nav:
   about: '/about/'
   tags: '/tags/'
   links: '/links/'
-  Travelling: 'https://travellings.link'
 
 # Page links
 link:
@@ -52,8 +51,8 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: 'Takuron'
-nickname: 'Takuron'
+author: 'Breaker'
+nickname: 'Braeker'
 bio: '不务正业的逗比大学生，有事联系<a href="mailto:zhongsunxinghe@outlook.com"> 个人邮箱</a>'
 avatar: 'https://s2.loli.net/2022/10/18/V9SkMR3caW5f8oj.webp' # 进行修改，必须要完整链接
 
