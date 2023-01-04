@@ -16,9 +16,9 @@ baseurl: ''
 
 # Navigation links
 nav:
-  about: '/about/'
-  tags: '/tags/'
-  links: '/links/'
+  关于: '/about/'
+  标签: '/tags/'
+  链接: '/links/'
 
 # Page links
 link:
