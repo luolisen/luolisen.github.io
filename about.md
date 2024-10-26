@@ -8,7 +8,7 @@ cover: https://s2.loli.net/2022/10/18/SYRqeBahrwOVN2K.webp
 
 [![我是垃圾](https://i.postimg.cc/XJcCV99s/b3e372fef1b3ef1615ceceaaedda1078-01.jpg)](https://postimg.cc/9R0MbR89)
 
-我，性别男。就读于某个拖累各大平台平均水平的学校，初一绝赞划水中。平时喜欢各种电子垃圾和重装各种系统，随缘搞Python开发。
+我，性别男。就读于某个拖累各大平台平均水平的学校，初三绝赞划水中。平时喜欢各种电子垃圾和重装各种系统，随缘搞Python开发。
 
 死宅不需要运动，欢迎在steam送我各种游戏。如果您觉得我写的还不错，也可以[赏我口饭吃](http://www.dashangcloud.com/sh/87ac15)。
 
